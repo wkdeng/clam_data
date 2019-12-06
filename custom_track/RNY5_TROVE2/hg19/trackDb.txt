@@ -13,7 +13,7 @@ priority 1
     parent RNY5_TROVE2
     shortLabel RNY5_TROVE2_IP_1
     longLabel RNY5_TROVE2_IP_1
-    bigDataUrl http://reslnxinglab01.research.chop.edu/public/dengw/mouse_lowinput/F-KI-06-IP_1.scaled.bw
+    bigDataUrl https://github.com/wkdeng/clam_data/blob/master/custom_track/RNY5_TROVE2/hg19/ip1.bw
     type bigWig
     color 180,206,232
    
@@ -21,7 +21,7 @@ priority 1
     parent RNY5_TROVE2
     shortLabel RNY5_TROVE2_IP_2
     longLabel RNY5_TROVE2_IP_2
-    bigDataUrl http://reslnxinglab01.research.chop.edu/public/dengw/mouse_lowinput/F-KI-06-IP_1.scaled.bw
+    bigDataUrl https://github.com/wkdeng/clam_data/blob/master/custom_track/RNY5_TROVE2/hg19/ip2.bw
     type bigWig
     color 255,252,211
    
@@ -29,6 +29,6 @@ priority 1
     parent RNY5_TROVE2
     shortLabel RNY5_TROVE2_IP_1
     longLabel RNY5_TROVE2_IP_1
-    bigDataUrl http://reslnxinglab01.research.chop.edu/public/dengw/mouse_lowinput/F-KI-06-IP_1.scaled.bw
+    bigDataUrl https://github.com/wkdeng/clam_data/blob/master/custom_track/RNY5_TROVE2/hg19/input.bw
     type bigWig
     color 234,180,211
