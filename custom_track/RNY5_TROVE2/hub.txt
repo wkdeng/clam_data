@@ -1,0 +1,6 @@
+hub RNY5_TROVE2
+shortLabel RNY5_TROVE2
+longLabel Binding peak of TROVE2 on RNY5
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.html
