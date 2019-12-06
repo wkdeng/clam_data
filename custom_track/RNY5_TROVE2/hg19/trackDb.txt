@@ -25,10 +25,10 @@ priority 1
     type bigWig
     color 255,252,211
    
-    track RNY5_TROVE2_IP_1
+    track RNY5_TROVE2_Inp
     parent RNY5_TROVE2
-    shortLabel RNY5_TROVE2_IP_1
-    longLabel RNY5_TROVE2_IP_1
+    shortLabel RNY5_TROVE2_Inp
+    longLabel RNY5_TROVE2_Inp
     bigDataUrl https://github.com/wkdeng/clam_data/blob/master/custom_track/RNY5_TROVE2/hg19/input.bw
     type bigWig
     color 234,180,211
