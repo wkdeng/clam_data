@@ -97,7 +97,7 @@ aggregate transparentOverlay
 showSubtrackColorOnUi on
 type bigWig
 autoScale on
-priority 3
+priority 4
 
     track KD_1
     parent KD_K562_1
@@ -126,7 +126,7 @@ aggregate transparentOverlay
 showSubtrackColorOnUi on
 type bigWig
 autoScale on
-priority 3
+priority 5
 
     track KD_2
     parent KD_K562_2
