@@ -85,7 +85,7 @@ priority 3
     longLabel SKCM
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/SKCM.bigwig
     type bigWig
-    color 180,206,232
+    color 255,255,255
 
 
 track KD_K562_1
