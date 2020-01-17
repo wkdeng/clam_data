@@ -1,0 +1,6 @@
+hub ILF3_Alu
+shortLabel ILF3_Alu
+longLabel ILF3_Alu
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.html

@@ -1,0 +1,88 @@
+track ILF3_Alu_K562
+shortLabel ILF3_Alu_K562
+longLabel ILF3_Alu_K562
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+
+    track K562_IP_1
+    parent ILF3_Alu_K562
+    shortLabel K562_IP_1
+    longLabel K562_IP_1
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_IP_1.bigwig
+    type bigWig
+    color 180,206,232
+   
+    track K562_IP_2
+    parent ILF3_Alu_K562
+    shortLabel K562_IP_2
+    longLabel K562_IP_2
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_IP_2.bigwig
+    type bigWig
+    color 255,252,211
+   
+    track K562_Inp
+    parent ILF3_Alu_K562
+    shortLabel K562_Inp
+    longLabel K562_Inp
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_Inp.bigwig
+    type bigWig
+    color 234,180,211
+
+track ILF3_Alu_HepG2
+shortLabel ILF3_Alu_HepG2
+longLabel ILF3_Alu_HepG2
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 2
+
+    track HepG2_IP_1
+    parent ILF3_Alu_HepG2
+    shortLabel HepG2_IP_1
+    longLabel HepG2_IP_1
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/HepG2_IP_1.bigwig
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_IP_2
+    parent ILF3_Alu_HepG2
+    shortLabel HepG2_IP_2
+    longLabel HepG2_IP_2
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/HepG2_IP_2.bigwig
+    type bigWig
+    color 255,252,211
+   
+    track HepG2_Inp
+    parent ILF3_Alu_HepG2
+    shortLabel HepG2_Inp
+    longLabel HepG2_Inp
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/HepG2_Inp.bigwig
+    type bigWig
+    color 234,180,211
+
+track Mutation
+shortLabel Mutation
+longLabel Mutation
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 3
+
+    track SKCM
+    parent Mutation
+    shortLabel SKCM
+    longLabel SKCM
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/SKCM.bigwig
+    type bigWig
+    color 180,206,232
