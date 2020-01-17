@@ -86,3 +86,22 @@ priority 3
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/SKCM.bigwig
     type bigWig
     color 255,0,0
+  track Mutation
+  
+shortLabel Alu
+longLabel Alu
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 4
+
+    track Alu_element
+    parent Alu
+    shortLabel Alu_element
+    longLabel Alu_element
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/Alu.bigwig
+    type bigWig
+    color 0,0,0
