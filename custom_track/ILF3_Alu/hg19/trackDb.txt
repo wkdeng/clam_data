@@ -144,3 +144,60 @@ priority 5
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_CON_2.bigwig
     type bigWig
     color 255,252,211
+
+track small_RNA_POS
+shortLabel small_RNA_POS
+longLabel small_RNA_POS
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 5
+
+    track KD_POS
+    parent small_RNA_POS
+    shortLabel KD_POS
+    longLabel KD_POS
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/small_RNA_KD_POS.bw
+    type bigWig
+    color 180,206,232
+
+
+    track CON_POS
+    parent small_RNA_POS
+    shortLabel CON_POS
+    longLabel CON_POS
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/small_RNA_CON_POS.bw
+    type bigWig
+    color 255,252,211
+
+
+track small_RNA_NEG
+shortLabel small_RNA_NEG
+longLabel small_RNA_NEG
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 5
+
+    track KD_NEG
+    parent small_RNA_NEG
+    shortLabel KD_NEG
+    longLabel KD_NEG
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/small_RNA_KD_NEG.bw
+    type bigWig
+    color 180,206,232
+
+
+    track CON_NEG
+    parent small_RNA_NEG
+    shortLabel CON_NEG
+    longLabel CON_NEG
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/small_RNA_CON_NEG.bw
+    type bigWig
+    color 255,252,211
