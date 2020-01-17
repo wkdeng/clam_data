@@ -88,9 +88,9 @@ priority 3
     color 180,206,232
 
 
-track KD_K562
-shortLabel KD_K562
-longLabel KD_K562
+track KD_K562_1
+shortLabel KD_K562_1
+longLabel KD_K562_1
 visibility full
 container multiWig
 aggregate transparentOverlay
@@ -100,25 +100,15 @@ autoScale on
 priority 3
 
     track KD_1
-    parent KD_K562
+    parent KD_K562_1
     shortLabel KD_1
     longLabel KD_1
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_KD_1.bigwig
     type bigWig
     color 180,206,232
 
-
-    track KD_2
-    parent KD_K562
-    shortLabel KD_2
-    longLabel KD_2
-    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_KD_2.bigwig
-    type bigWig
-    color 180,206,232
-
-
     track CON_1
-    parent KD_K562
+    parent KD_K562_1
     shortLabel CON_1
     longLabel CON_1
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_CON_1.bigwig
@@ -126,8 +116,29 @@ priority 3
     color 255,252,211
 
 
+
+track KD_K562_2
+shortLabel KD_K562_2
+longLabel KD_K562_2
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 3
+
+    track KD_2
+    parent KD_K562_2
+    shortLabel KD_2
+    longLabel KD_2
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_KD_2.bigwig
+    type bigWig
+    color 180,206,232
+
+
     track CON_2
-    parent KD_K562
+    parent KD_K562_2
     shortLabel CON_2
     longLabel CON_2
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_CON_2.bigwig
