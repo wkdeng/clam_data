@@ -219,7 +219,7 @@ priority 5
     parent ILF3_KD
     shortLabel ILF3_KD_Treat
     longLabel ILF3_KD_Treat
-    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_KD_1.bigwig
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_KD_2.bigwig
     type bigWig
     color 180,206,232
 
@@ -227,6 +227,6 @@ priority 5
     parent ILF3_KD
     shortLabel ILF3_KD_Con
     longLabel ILF3_KD_Con
-    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_CON_1.bigwig
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/K562_CON_2.bigwig
     type bigWig
     color 180,206,232
