@@ -200,7 +200,7 @@ priority 5
     longLabel CON_NEG
     bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/ILF3_Alu/hg19/small_RNA_CON_NEG.bw
     type bigWig
-    color 255,252,211
+    color 255,0,0
 
 
 
