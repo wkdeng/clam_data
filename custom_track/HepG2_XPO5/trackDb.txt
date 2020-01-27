@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_XPO5_combined
     parent HepG2_XPO5
     shortLabel HepG2_XPO5_combined

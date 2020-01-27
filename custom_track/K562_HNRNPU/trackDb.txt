@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_HNRNPU_combined
     parent K562_HNRNPU
     shortLabel K562_HNRNPU_combined

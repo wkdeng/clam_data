@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_GEMIN5_combined
     parent K562_GEMIN5
     shortLabel K562_GEMIN5_combined

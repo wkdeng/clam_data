@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_RBM15_combined
     parent K562_RBM15
     shortLabel K562_RBM15_combined

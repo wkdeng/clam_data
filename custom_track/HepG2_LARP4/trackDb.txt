@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_LARP4_combined
     parent HepG2_LARP4
     shortLabel HepG2_LARP4_combined

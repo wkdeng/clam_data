@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_ZNF622_combined
     parent K562_ZNF622
     shortLabel K562_ZNF622_combined

@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_HLTF_combined
     parent HepG2_HLTF
     shortLabel HepG2_HLTF_combined

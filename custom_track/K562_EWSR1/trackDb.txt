@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_EWSR1_combined
     parent K562_EWSR1
     shortLabel K562_EWSR1_combined

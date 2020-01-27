@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_EIF3D_combined
     parent HepG2_EIF3D
     shortLabel HepG2_EIF3D_combined

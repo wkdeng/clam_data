@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_SRSF9_combined
     parent HepG2_SRSF9
     shortLabel HepG2_SRSF9_combined

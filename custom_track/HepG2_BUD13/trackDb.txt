@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_BUD13_combined
     parent HepG2_BUD13
     shortLabel HepG2_BUD13_combined

@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_WRN_combined
     parent K562_WRN
     shortLabel K562_WRN_combined

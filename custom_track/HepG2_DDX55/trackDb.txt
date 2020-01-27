@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track HepG2_DDX55_combined
     parent HepG2_DDX55
     shortLabel HepG2_DDX55_combined

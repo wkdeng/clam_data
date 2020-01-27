@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_DROSHA_combined
     parent K562_DROSHA
     shortLabel K562_DROSHA_combined

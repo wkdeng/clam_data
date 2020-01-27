@@ -8,6 +8,7 @@ showSubtrackColorOnUi on
 type bigWig
 autoScale on
 priority 1
+
     track K562_AQR_combined
     parent K562_AQR
     shortLabel K562_AQR_combined
