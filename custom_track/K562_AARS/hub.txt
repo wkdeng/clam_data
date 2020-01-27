@@ -1,0 +1,6 @@
+hub K562_AARS
+shortLabel K562_AARS
+longLabel K562_AARS
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

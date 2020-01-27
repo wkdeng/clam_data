@@ -1,0 +1,6 @@
+hub HepG2_LARP4
+shortLabel HepG2_LARP4
+longLabel HepG2_LARP4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

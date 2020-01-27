@@ -1,0 +1,6 @@
+hub K562_DDX6
+shortLabel K562_DDX6
+longLabel K562_DDX6
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

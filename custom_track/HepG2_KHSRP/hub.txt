@@ -1,0 +1,6 @@
+hub HepG2_KHSRP
+shortLabel HepG2_KHSRP
+longLabel HepG2_KHSRP
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

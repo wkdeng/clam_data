@@ -1,0 +1,6 @@
+hub HepG2_SUGP2
+shortLabel HepG2_SUGP2
+longLabel HepG2_SUGP2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

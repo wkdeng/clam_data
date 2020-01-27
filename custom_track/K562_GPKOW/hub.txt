@@ -1,0 +1,6 @@
+hub K562_GPKOW
+shortLabel K562_GPKOW
+longLabel K562_GPKOW
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

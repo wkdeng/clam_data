@@ -1,0 +1,6 @@
+hub HepG2_SF3B4
+shortLabel HepG2_SF3B4
+longLabel HepG2_SF3B4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

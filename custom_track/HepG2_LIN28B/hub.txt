@@ -1,0 +1,6 @@
+hub HepG2_LIN28B
+shortLabel HepG2_LIN28B
+longLabel HepG2_LIN28B
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

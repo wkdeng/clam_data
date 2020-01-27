@@ -1,0 +1,6 @@
+hub HepG2_UTP18
+shortLabel HepG2_UTP18
+longLabel HepG2_UTP18
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

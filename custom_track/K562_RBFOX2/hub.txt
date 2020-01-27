@@ -1,0 +1,6 @@
+hub K562_RBFOX2
+shortLabel K562_RBFOX2
+longLabel K562_RBFOX2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

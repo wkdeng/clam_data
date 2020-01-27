@@ -1,0 +1,6 @@
+hub K562_UTP18
+shortLabel K562_UTP18
+longLabel K562_UTP18
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

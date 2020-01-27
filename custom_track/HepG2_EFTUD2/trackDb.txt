@@ -1,0 +1,25 @@
+track HepG2_EFTUD2
+shortLabel HepG2_EFTUD2
+longLabel HepG2_EFTUD2
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track HepG2_EFTUD2_combined
+    parent HepG2_EFTUD2
+    shortLabel HepG2_EFTUD2_combined
+    longLabel HepG2_EFTUD2_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_EFTUD2/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_EFTUD2_unique
+    parent HepG2_EFTUD2
+    shortLabel HepG2_EFTUD2_unique
+    longLabel HepG2_EFTUD2_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_EFTUD2/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

@@ -1,0 +1,6 @@
+hub HepG2_AGGF1
+shortLabel HepG2_AGGF1
+longLabel HepG2_AGGF1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

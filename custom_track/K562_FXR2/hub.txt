@@ -1,0 +1,6 @@
+hub K562_FXR2
+shortLabel K562_FXR2
+longLabel K562_FXR2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

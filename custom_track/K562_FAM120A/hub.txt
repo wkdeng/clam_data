@@ -1,0 +1,6 @@
+hub K562_FAM120A
+shortLabel K562_FAM120A
+longLabel K562_FAM120A
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

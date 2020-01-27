@@ -1,0 +1,6 @@
+hub HepG2_UCHL5
+shortLabel HepG2_UCHL5
+longLabel HepG2_UCHL5
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

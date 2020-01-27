@@ -1,0 +1,6 @@
+hub K562_NIPBL
+shortLabel K562_NIPBL
+longLabel K562_NIPBL
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

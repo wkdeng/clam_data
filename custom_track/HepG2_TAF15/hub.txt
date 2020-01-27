@@ -1,0 +1,6 @@
+hub HepG2_TAF15
+shortLabel HepG2_TAF15
+longLabel HepG2_TAF15
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,25 @@
+track K562_AKAP8L
+shortLabel K562_AKAP8L
+longLabel K562_AKAP8L
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_AKAP8L_combined
+    parent K562_AKAP8L
+    shortLabel K562_AKAP8L_combined
+    longLabel K562_AKAP8L_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_AKAP8L/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_AKAP8L_unique
+    parent K562_AKAP8L
+    shortLabel K562_AKAP8L_unique
+    longLabel K562_AKAP8L_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_AKAP8L/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

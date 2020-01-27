@@ -1,0 +1,6 @@
+hub K562_YBX3
+shortLabel K562_YBX3
+longLabel K562_YBX3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,25 @@
+track HepG2_LIN28B
+shortLabel HepG2_LIN28B
+longLabel HepG2_LIN28B
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track HepG2_LIN28B_combined
+    parent HepG2_LIN28B
+    shortLabel HepG2_LIN28B_combined
+    longLabel HepG2_LIN28B_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_LIN28B/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_LIN28B_unique
+    parent HepG2_LIN28B
+    shortLabel HepG2_LIN28B_unique
+    longLabel HepG2_LIN28B_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_LIN28B/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

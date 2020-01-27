@@ -1,0 +1,25 @@
+track K562_DDX3X
+shortLabel K562_DDX3X
+longLabel K562_DDX3X
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_DDX3X_combined
+    parent K562_DDX3X
+    shortLabel K562_DDX3X_combined
+    longLabel K562_DDX3X_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_DDX3X/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_DDX3X_unique
+    parent K562_DDX3X
+    shortLabel K562_DDX3X_unique
+    longLabel K562_DDX3X_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_DDX3X/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

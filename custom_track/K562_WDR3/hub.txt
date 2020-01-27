@@ -1,0 +1,6 @@
+hub K562_WDR3
+shortLabel K562_WDR3
+longLabel K562_WDR3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

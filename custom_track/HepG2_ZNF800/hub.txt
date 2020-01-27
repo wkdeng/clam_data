@@ -1,0 +1,6 @@
+hub HepG2_ZNF800
+shortLabel HepG2_ZNF800
+longLabel HepG2_ZNF800
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

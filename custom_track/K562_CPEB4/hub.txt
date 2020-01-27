@@ -1,0 +1,6 @@
+hub K562_CPEB4
+shortLabel K562_CPEB4
+longLabel K562_CPEB4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

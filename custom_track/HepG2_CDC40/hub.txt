@@ -1,0 +1,6 @@
+hub HepG2_CDC40
+shortLabel HepG2_CDC40
+longLabel HepG2_CDC40
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

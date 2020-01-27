@@ -1,0 +1,6 @@
+hub HepG2_PCBP2
+shortLabel HepG2_PCBP2
+longLabel HepG2_PCBP2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

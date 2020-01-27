@@ -1,0 +1,6 @@
+hub K562_SBDS
+shortLabel K562_SBDS
+longLabel K562_SBDS
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

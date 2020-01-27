@@ -1,0 +1,6 @@
+hub K562_TROVE2
+shortLabel K562_TROVE2
+longLabel K562_TROVE2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

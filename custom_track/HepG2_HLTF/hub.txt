@@ -1,0 +1,6 @@
+hub HepG2_HLTF
+shortLabel HepG2_HLTF
+longLabel HepG2_HLTF
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

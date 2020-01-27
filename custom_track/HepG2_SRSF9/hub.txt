@@ -1,0 +1,6 @@
+hub HepG2_SRSF9
+shortLabel HepG2_SRSF9
+longLabel HepG2_SRSF9
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

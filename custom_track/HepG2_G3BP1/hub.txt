@@ -1,0 +1,6 @@
+hub HepG2_G3BP1
+shortLabel HepG2_G3BP1
+longLabel HepG2_G3BP1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

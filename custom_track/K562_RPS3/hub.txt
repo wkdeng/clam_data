@@ -1,0 +1,6 @@
+hub K562_RPS3
+shortLabel K562_RPS3
+longLabel K562_RPS3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

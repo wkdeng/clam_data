@@ -1,0 +1,6 @@
+hub HepG2_BCCIP
+shortLabel HepG2_BCCIP
+longLabel HepG2_BCCIP
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,6 @@
+hub HepG2_FTO
+shortLabel HepG2_FTO
+longLabel HepG2_FTO
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

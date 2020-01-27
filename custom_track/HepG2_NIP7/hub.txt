@@ -1,0 +1,6 @@
+hub HepG2_NIP7
+shortLabel HepG2_NIP7
+longLabel HepG2_NIP7
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

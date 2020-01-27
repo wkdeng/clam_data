@@ -1,0 +1,6 @@
+hub HepG2_EIF3D
+shortLabel HepG2_EIF3D
+longLabel HepG2_EIF3D
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

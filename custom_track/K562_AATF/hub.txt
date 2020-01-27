@@ -1,0 +1,6 @@
+hub K562_AATF
+shortLabel K562_AATF
+longLabel K562_AATF
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

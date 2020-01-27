@@ -1,0 +1,6 @@
+hub HepG2_DDX3X
+shortLabel HepG2_DDX3X
+longLabel HepG2_DDX3X
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

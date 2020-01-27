@@ -1,0 +1,6 @@
+hub HepG2_FXR2
+shortLabel HepG2_FXR2
+longLabel HepG2_FXR2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

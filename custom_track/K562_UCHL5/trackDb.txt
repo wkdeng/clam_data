@@ -1,0 +1,25 @@
+track K562_UCHL5
+shortLabel K562_UCHL5
+longLabel K562_UCHL5
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_UCHL5_combined
+    parent K562_UCHL5
+    shortLabel K562_UCHL5_combined
+    longLabel K562_UCHL5_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_UCHL5/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_UCHL5_unique
+    parent K562_UCHL5
+    shortLabel K562_UCHL5_unique
+    longLabel K562_UCHL5_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_UCHL5/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

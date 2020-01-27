@@ -1,0 +1,6 @@
+hub K562_QKI
+shortLabel K562_QKI
+longLabel K562_QKI
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

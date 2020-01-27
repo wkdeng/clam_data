@@ -1,0 +1,6 @@
+hub K562_GEMIN5
+shortLabel K562_GEMIN5
+longLabel K562_GEMIN5
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,6 @@
+hub HepG2_U2AF1
+shortLabel HepG2_U2AF1
+longLabel HepG2_U2AF1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

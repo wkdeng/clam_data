@@ -1,0 +1,6 @@
+hub K562_NONO
+shortLabel K562_NONO
+longLabel K562_NONO
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

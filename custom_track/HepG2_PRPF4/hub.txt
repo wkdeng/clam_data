@@ -1,0 +1,6 @@
+hub HepG2_PRPF4
+shortLabel HepG2_PRPF4
+longLabel HepG2_PRPF4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

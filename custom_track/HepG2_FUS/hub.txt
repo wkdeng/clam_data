@@ -1,0 +1,6 @@
+hub HepG2_FUS
+shortLabel HepG2_FUS
+longLabel HepG2_FUS
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

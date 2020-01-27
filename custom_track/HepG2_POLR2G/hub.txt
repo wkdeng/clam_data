@@ -1,0 +1,6 @@
+hub HepG2_POLR2G
+shortLabel HepG2_POLR2G
+longLabel HepG2_POLR2G
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

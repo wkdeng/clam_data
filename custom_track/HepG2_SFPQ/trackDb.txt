@@ -1,0 +1,25 @@
+track HepG2_SFPQ
+shortLabel HepG2_SFPQ
+longLabel HepG2_SFPQ
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track HepG2_SFPQ_combined
+    parent HepG2_SFPQ
+    shortLabel HepG2_SFPQ_combined
+    longLabel HepG2_SFPQ_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_SFPQ/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_SFPQ_unique
+    parent HepG2_SFPQ
+    shortLabel HepG2_SFPQ_unique
+    longLabel HepG2_SFPQ_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_SFPQ/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

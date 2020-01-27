@@ -1,0 +1,6 @@
+hub K562_FTO
+shortLabel K562_FTO
+longLabel K562_FTO
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

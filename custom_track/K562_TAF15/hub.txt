@@ -1,0 +1,6 @@
+hub K562_TAF15
+shortLabel K562_TAF15
+longLabel K562_TAF15
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

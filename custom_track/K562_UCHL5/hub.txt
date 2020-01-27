@@ -1,0 +1,6 @@
+hub K562_UCHL5
+shortLabel K562_UCHL5
+longLabel K562_UCHL5
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

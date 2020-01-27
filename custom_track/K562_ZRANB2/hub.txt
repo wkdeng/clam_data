@@ -1,0 +1,6 @@
+hub K562_ZRANB2
+shortLabel K562_ZRANB2
+longLabel K562_ZRANB2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

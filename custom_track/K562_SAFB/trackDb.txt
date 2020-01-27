@@ -1,0 +1,25 @@
+track K562_SAFB
+shortLabel K562_SAFB
+longLabel K562_SAFB
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_SAFB_combined
+    parent K562_SAFB
+    shortLabel K562_SAFB_combined
+    longLabel K562_SAFB_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_SAFB/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_SAFB_unique
+    parent K562_SAFB
+    shortLabel K562_SAFB_unique
+    longLabel K562_SAFB_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_SAFB/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

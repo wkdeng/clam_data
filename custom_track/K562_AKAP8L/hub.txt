@@ -1,0 +1,6 @@
+hub K562_AKAP8L
+shortLabel K562_AKAP8L
+longLabel K562_AKAP8L
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

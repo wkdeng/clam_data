@@ -1,0 +1,6 @@
+hub K562_SAFB
+shortLabel K562_SAFB
+longLabel K562_SAFB
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

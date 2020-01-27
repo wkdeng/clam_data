@@ -1,0 +1,25 @@
+track HepG2_TAF15
+shortLabel HepG2_TAF15
+longLabel HepG2_TAF15
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track HepG2_TAF15_combined
+    parent HepG2_TAF15
+    shortLabel HepG2_TAF15_combined
+    longLabel HepG2_TAF15_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_TAF15/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_TAF15_unique
+    parent HepG2_TAF15
+    shortLabel HepG2_TAF15_unique
+    longLabel HepG2_TAF15_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_TAF15/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

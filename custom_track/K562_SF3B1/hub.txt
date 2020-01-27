@@ -1,0 +1,6 @@
+hub K562_SF3B1
+shortLabel K562_SF3B1
+longLabel K562_SF3B1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,6 @@
+hub K562_LARP7
+shortLabel K562_LARP7
+longLabel K562_LARP7
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

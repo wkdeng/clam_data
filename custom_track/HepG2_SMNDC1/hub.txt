@@ -1,0 +1,6 @@
+hub HepG2_SMNDC1
+shortLabel HepG2_SMNDC1
+longLabel HepG2_SMNDC1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

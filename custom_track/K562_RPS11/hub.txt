@@ -1,0 +1,6 @@
+hub K562_RPS11
+shortLabel K562_RPS11
+longLabel K562_RPS11
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

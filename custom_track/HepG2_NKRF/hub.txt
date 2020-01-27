@@ -1,0 +1,6 @@
+hub HepG2_NKRF
+shortLabel HepG2_NKRF
+longLabel HepG2_NKRF
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

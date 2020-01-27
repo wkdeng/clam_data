@@ -1,0 +1,25 @@
+track K562_EIF3G
+shortLabel K562_EIF3G
+longLabel K562_EIF3G
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_EIF3G_combined
+    parent K562_EIF3G
+    shortLabel K562_EIF3G_combined
+    longLabel K562_EIF3G_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_EIF3G/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_EIF3G_unique
+    parent K562_EIF3G
+    shortLabel K562_EIF3G_unique
+    longLabel K562_EIF3G_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_EIF3G/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

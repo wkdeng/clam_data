@@ -1,0 +1,6 @@
+hub HepG2_DDX6
+shortLabel HepG2_DDX6
+longLabel HepG2_DDX6
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

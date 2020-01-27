@@ -1,0 +1,25 @@
+track K562_HNRNPC
+shortLabel K562_HNRNPC
+longLabel K562_HNRNPC
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_HNRNPC_combined
+    parent K562_HNRNPC
+    shortLabel K562_HNRNPC_combined
+    longLabel K562_HNRNPC_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_HNRNPC/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_HNRNPC_unique
+    parent K562_HNRNPC
+    shortLabel K562_HNRNPC_unique
+    longLabel K562_HNRNPC_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_HNRNPC/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

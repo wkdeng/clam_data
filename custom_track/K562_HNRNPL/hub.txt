@@ -1,0 +1,6 @@
+hub K562_HNRNPL
+shortLabel K562_HNRNPL
+longLabel K562_HNRNPL
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

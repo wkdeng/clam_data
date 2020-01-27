@@ -1,0 +1,6 @@
+hub K562_KHSRP
+shortLabel K562_KHSRP
+longLabel K562_KHSRP
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

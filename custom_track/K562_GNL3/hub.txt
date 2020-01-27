@@ -1,0 +1,6 @@
+hub K562_GNL3
+shortLabel K562_GNL3
+longLabel K562_GNL3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

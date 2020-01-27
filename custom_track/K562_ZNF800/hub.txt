@@ -1,0 +1,6 @@
+hub K562_ZNF800
+shortLabel K562_ZNF800
+longLabel K562_ZNF800
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

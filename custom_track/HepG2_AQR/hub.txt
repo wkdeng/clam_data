@@ -1,0 +1,6 @@
+hub HepG2_AQR
+shortLabel HepG2_AQR
+longLabel HepG2_AQR
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

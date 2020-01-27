@@ -1,0 +1,25 @@
+track K562_YWHAG
+shortLabel K562_YWHAG
+longLabel K562_YWHAG
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_YWHAG_combined
+    parent K562_YWHAG
+    shortLabel K562_YWHAG_combined
+    longLabel K562_YWHAG_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_YWHAG/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_YWHAG_unique
+    parent K562_YWHAG
+    shortLabel K562_YWHAG_unique
+    longLabel K562_YWHAG_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_YWHAG/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

@@ -1,0 +1,6 @@
+hub K562_DROSHA
+shortLabel K562_DROSHA
+longLabel K562_DROSHA
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

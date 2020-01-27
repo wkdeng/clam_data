@@ -1,0 +1,6 @@
+hub K562_EXOSC5
+shortLabel K562_EXOSC5
+longLabel K562_EXOSC5
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

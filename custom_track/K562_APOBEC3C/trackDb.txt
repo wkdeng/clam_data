@@ -1,0 +1,25 @@
+track K562_APOBEC3C
+shortLabel K562_APOBEC3C
+longLabel K562_APOBEC3C
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_APOBEC3C_combined
+    parent K562_APOBEC3C
+    shortLabel K562_APOBEC3C_combined
+    longLabel K562_APOBEC3C_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_APOBEC3C/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_APOBEC3C_unique
+    parent K562_APOBEC3C
+    shortLabel K562_APOBEC3C_unique
+    longLabel K562_APOBEC3C_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_APOBEC3C/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

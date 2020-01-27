@@ -1,0 +1,6 @@
+hub K562_U2AF2
+shortLabel K562_U2AF2
+longLabel K562_U2AF2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

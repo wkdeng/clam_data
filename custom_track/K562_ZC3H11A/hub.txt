@@ -1,0 +1,6 @@
+hub K562_ZC3H11A
+shortLabel K562_ZC3H11A
+longLabel K562_ZC3H11A
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

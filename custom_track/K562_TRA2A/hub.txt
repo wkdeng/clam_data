@@ -1,0 +1,6 @@
+hub K562_TRA2A
+shortLabel K562_TRA2A
+longLabel K562_TRA2A
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

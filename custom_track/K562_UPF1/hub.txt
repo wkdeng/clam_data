@@ -1,0 +1,6 @@
+hub K562_UPF1
+shortLabel K562_UPF1
+longLabel K562_UPF1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

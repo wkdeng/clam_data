@@ -1,0 +1,6 @@
+hub K562_SND1
+shortLabel K562_SND1
+longLabel K562_SND1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

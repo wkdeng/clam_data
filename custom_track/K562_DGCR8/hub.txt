@@ -1,0 +1,6 @@
+hub K562_DGCR8
+shortLabel K562_DGCR8
+longLabel K562_DGCR8
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

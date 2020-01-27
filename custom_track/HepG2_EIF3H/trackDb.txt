@@ -1,0 +1,25 @@
+track HepG2_EIF3H
+shortLabel HepG2_EIF3H
+longLabel HepG2_EIF3H
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track HepG2_EIF3H_combined
+    parent HepG2_EIF3H
+    shortLabel HepG2_EIF3H_combined
+    longLabel HepG2_EIF3H_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_EIF3H/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track HepG2_EIF3H_unique
+    parent HepG2_EIF3H
+    shortLabel HepG2_EIF3H_unique
+    longLabel HepG2_EIF3H_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/HepG2_EIF3H/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

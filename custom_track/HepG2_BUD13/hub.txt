@@ -1,0 +1,6 @@
+hub HepG2_BUD13
+shortLabel HepG2_BUD13
+longLabel HepG2_BUD13
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

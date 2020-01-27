@@ -1,0 +1,6 @@
+hub K562_PTBP1
+shortLabel K562_PTBP1
+longLabel K562_PTBP1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

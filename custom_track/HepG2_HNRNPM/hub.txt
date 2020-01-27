@@ -1,0 +1,6 @@
+hub HepG2_HNRNPM
+shortLabel HepG2_HNRNPM
+longLabel HepG2_HNRNPM
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

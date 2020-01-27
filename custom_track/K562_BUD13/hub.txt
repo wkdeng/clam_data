@@ -1,0 +1,6 @@
+hub K562_BUD13
+shortLabel K562_BUD13
+longLabel K562_BUD13
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

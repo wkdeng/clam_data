@@ -1,0 +1,6 @@
+hub K562_LIN28B
+shortLabel K562_LIN28B
+longLabel K562_LIN28B
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

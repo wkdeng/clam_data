@@ -1,0 +1,6 @@
+hub K562_APOBEC3C
+shortLabel K562_APOBEC3C
+longLabel K562_APOBEC3C
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

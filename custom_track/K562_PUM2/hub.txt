@@ -1,0 +1,6 @@
+hub K562_PUM2
+shortLabel K562_PUM2
+longLabel K562_PUM2
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

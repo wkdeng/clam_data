@@ -1,0 +1,6 @@
+hub HepG2_MATR3
+shortLabel HepG2_MATR3
+longLabel HepG2_MATR3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

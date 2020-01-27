@@ -1,0 +1,6 @@
+hub HepG2_YBX3
+shortLabel HepG2_YBX3
+longLabel HepG2_YBX3
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

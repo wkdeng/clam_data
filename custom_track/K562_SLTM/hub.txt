@@ -1,0 +1,6 @@
+hub K562_SLTM
+shortLabel K562_SLTM
+longLabel K562_SLTM
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

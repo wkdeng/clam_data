@@ -1,0 +1,6 @@
+hub K562_AQR
+shortLabel K562_AQR
+longLabel K562_AQR
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

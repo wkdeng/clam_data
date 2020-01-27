@@ -1,0 +1,6 @@
+hub HepG2_TBRG4
+shortLabel HepG2_TBRG4
+longLabel HepG2_TBRG4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

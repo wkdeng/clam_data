@@ -1,0 +1,6 @@
+hub K562_MTPAP
+shortLabel K562_MTPAP
+longLabel K562_MTPAP
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

@@ -1,0 +1,6 @@
+hub K562_TARDBP
+shortLabel K562_TARDBP
+longLabel K562_TARDBP
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

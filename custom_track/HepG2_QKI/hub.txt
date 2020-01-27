@@ -1,0 +1,6 @@
+hub HepG2_QKI
+shortLabel HepG2_QKI
+longLabel HepG2_QKI
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

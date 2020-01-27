@@ -1,0 +1,6 @@
+hub HepG2_FKBP4
+shortLabel HepG2_FKBP4
+longLabel HepG2_FKBP4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

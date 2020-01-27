@@ -1,0 +1,6 @@
+hub K562_RBM22
+shortLabel K562_RBM22
+longLabel K562_RBM22
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

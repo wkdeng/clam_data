@@ -1,0 +1,25 @@
+track K562_FXR2
+shortLabel K562_FXR2
+longLabel K562_FXR2
+visibility full
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+type bigWig
+autoScale on
+priority 1
+    track K562_FXR2_combined
+    parent K562_FXR2
+    shortLabel K562_FXR2_combined
+    longLabel K562_FXR2_combined
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_FXR2/narrow_peak.combined.bw
+    type bigWig
+    color 180,206,232
+   
+    track K562_FXR2_unique
+    parent K562_FXR2
+    shortLabel K562_FXR2_unique
+    longLabel K562_FXR2_unique
+    bigDataUrl https://raw.githubusercontent.com/wkdeng/clam_data/master/custom_track/K562_FXR2/narrow_peak.unique.bw
+    type bigWig
+    color 255,252,211

@@ -1,0 +1,6 @@
+hub K562_TBRG4
+shortLabel K562_TBRG4
+longLabel K562_TBRG4
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

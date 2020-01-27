@@ -1,0 +1,6 @@
+hub K562_EIF3G
+shortLabel K562_EIF3G
+longLabel K562_EIF3G
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm

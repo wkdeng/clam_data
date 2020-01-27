@@ -1,0 +1,6 @@
+hub HepG2_PABPN1
+shortLabel HepG2_PABPN1
+longLabel HepG2_PABPN1
+genomesFile genomes.txt
+email dengwankun@hotmail.com
+descriptionUrl hubDescription.htm
