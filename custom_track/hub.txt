@@ -1,6 +1,0 @@
-hub mouse_lowinput
-shortLabel m6A
-longLabel m6A Analysis of Mouse Lowinput
-genomesFile genomes.txt
-email dengwankun@hotmail.com
-descriptionUrl hubDescription.html
